@@ -1,0 +1,2 @@
+- pipeline.id: sync-posts-pipeline
+  path.config: "/usr/share/logstash/pipelines/sync-posts.conf"
